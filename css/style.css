@@ -464,16 +464,17 @@ h6{
 }
 .right-mob-front{
     position: absolute;
-    right: 8%;
+    right: 12%;
     margin: 0px auto;
-    max-width: 40%;
-    top:-80px;
+    max-width: 35%;
+    top:-40px;
     z-index: 2;
 }
 .right-mob-back {
     position: absolute;
     right:0px;
-    top:-20px;
+    max-width: 35%;
+    top:-0px;
     z-index: 1;
 }
 
