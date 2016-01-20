@@ -282,6 +282,8 @@ h6{
 }
 .navbar{
     margin-bottom: 0px;
+    background: #263238;
+    border-radius: 0px;
 }
 .navbar-nav {
     float: left;
@@ -316,12 +318,37 @@ h6{
 /* intro ---------------------------------------------------------------- */
 
 #intro{
-    background: #f1f1f1;
-    padding: 150px 0px;
+    background: #263238;
+    background: -webkit-radial-gradient(#3e4553, #263238); /* Safari 5.1 to 6.0 */
+    background: -o-radial-gradient(#3e4553, #263238); /* For Opera 11.6 to 12.0 */
+    background: -moz-radial-gradient(#3e4553, #263238); /* For Firefox 3.6 to 15 */
+    background: radial-gradient(#3e4553, #263238); /* Standard syntax */
+    padding-top: 50px;
+    padding-bottom: 200px;
     position: relative;
     z-index: 1;
     overflow: hidden;
+    color: #f1f1f1;
 }
+
+#intro-texture {
+    background-image: url(../images/noisy-texture-100x100-o5-d10-c-263238-t1.png);
+    background-repeat: repeat;
+    background: red;
+    height: 100%;
+    width: 200px;
+}
+
+#intro-logo {
+    padding-top: 120px;
+}
+
+#intro h1 {
+    color: #f1f1f1;
+    font-weight: 700;
+}
+
+
 .intro-mobile {
     position: absolute;
     left: 0px;
