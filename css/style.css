@@ -556,6 +556,9 @@ h6{
     background: #F4F4F4;
     text-align: center;
 }
+#contact .btn {
+    font-weight: 600;
+}
 .form-control{
     background: transparent;
     border: 1px solid #ddd;
