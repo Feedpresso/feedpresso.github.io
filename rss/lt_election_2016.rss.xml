@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Seimo Rinkimai 2016</title>
+    <description>Rinktinės naujienos apie 2016 metų Seimo rinkimus.</description>
+    <link>http://www.feedpresso.com/</link>
+    <category>Politika</category>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>lt-lt</language>
+    <pubDate>Tue, 04 Oct 2016 13:38:55 +0200</pubDate>
+    <webMaster>hello@feedpresso.com</webMaster>
+    <generator>Manual</generator>
+
+    <image>
+      <url>http://www.feedpresso.com/images/apple-touch-icon-114x114.png</url>
+      <title>Feedpresso</title>
+      <width>114</width>
+      <height>114</height>
+    </image>
+
+    <item>
+      <title>Mindaugas Lingė: būsimos naujos koalicijos kontūrų kol kas nematyti</title>
+      <description>
+        Aiškių lyderių rinkimų kampanijoje, kaip ir būsimos koalicijos kontūrų, kol kas nematyti, sako prezidentės patarėjas vidaus politikos klausimais Mindaugas Lingė.
+      </description>
+      <link>http://www.15min.lt/naujiena/aktualu/lietuva/mindaugas-linge-busimos-naujos-koalicijos-konturu-kol-kas-nematyti-56-692033</link>
+      
+      <category>Politika</category>
+      <category>Rinkimai</category>
+
+      <pubDate>2016-10-04T13:13:13Z+03:00</pubDate>
+    </item>
+
+
+  </channel>
+</rss>
