@@ -242,10 +242,10 @@
 
       <pubDate>2016-10-05T21:00:13+03:00</pubDate>
       </item>   
-    
+     
       <item>
       <!-- Nr.17-->
-      <title>Fiksuojami rinkimų pažeidimai</title>
+      <title></title>
       <description>
        Tauragės apskrities policija pradėjo ikiteisminį tyrimą dėl rinkimų į Seimą pažeidimo.
       </description>
@@ -255,6 +255,22 @@
       <category>Rinkimai</category>
 
       <pubDate>2016-10-05T18:00:13+03:00</pubDate>
+      </item>  
+      
+      <item>
+      <!-- Nr.18-->
+      <title>Tauragėje žurnalistas užfiksavo galbūt įkaušusius rinkėjus: tiriama, ar jie nepardavė balsų</title>
+      <description>
+       Tauragės apskrities vyriausiajame policijos komisariate jau gauti 3 pranešimai apie galimus rinkimų pažeidimus šioje apskrityje. Pradėtas vienas ikiteisminis tyrimas dėl galimo rinkėjų papirkimo. Vienas iš galimų pažeidimų užfiksuotas vaizdo įraše.
+      </description>
+      <link>http://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/taurageje-zurnalistas-uzfiksavo-galbut-ikaususius-rinkejus-tiriama-ar-jie-nepardave-balsu-59-692811</link>
+      
+      <category>Politika</category>
+      <category>Rinkimai</category>
+
+      <pubDate>2016-10-05T17:00:13+03:00</pubDate>
       </item>   
+    
+  
   </channel>
 </rss>
