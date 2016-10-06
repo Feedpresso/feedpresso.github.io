@@ -397,5 +397,19 @@
 
       <pubDate>2016-10-06T12:05:13+03:00</pubDate>
       </item>
+    
+      <item>
+      <!-- Nr.28-->
+      <title>Politinių pažiūrų testas</title>
+      <description>
+        Politinių pažiūrų testas.
+      </description>
+      <link>http://manoseimas.lt/testas/1/#/</link>
+      
+      <category>Politika</category>
+      <category>Rinkimai</category>
+
+      <pubDate>2016-10-06T15:05:13+03:00</pubDate>
+      </item>
   </channel>
 </rss>
