@@ -1727,5 +1727,19 @@
 
       <pubDate>2016-10-10T00:44:13+03:00</pubDate>
       </item>
+    
+      <item>
+      <!-- Nr.123-->
+      <title>LR Seimo rinkimų rezultatai.</title>
+      <description>
+        LR Seimo rinkimų rezultatai.
+      </description>
+      <link>http://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija</link>
+      
+      <category>Politika</category>
+      <category>Rinkimai</category>
+
+      <pubDate>2016-10-10T00:02:13+03:00</pubDate>
+      </item>
   </channel>
 </rss>
