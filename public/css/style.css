@@ -438,7 +438,6 @@ h6{
     font-weight: 700;
 }
 .bigIcon{
-    color: #F44C67;
     font-size: 50px;
     margin-bottom: 20px;
 }
@@ -453,6 +452,12 @@ h6{
 
 .leftFeatures,.rightFeatures{
     margin-top: 50px;
+}
+
+#features .bigIcon{
+    color: #2ec7db;
+    font-size: 50px;
+    margin-bottom: 10px;
 }
 
 /* share ---------------------------------------------------------------- */
@@ -610,7 +615,8 @@ textarea.form-control{
 footer {
     background:#29282b;
     text-align: center;
-    padding: 150px 0px;
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
 footer hr{
     border-color: #181819;
