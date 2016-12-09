@@ -116,7 +116,7 @@ a:hover,a:focus{
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-weight: 100;
     margin-bottom: 20px;
     line-height: 1.4;
@@ -789,9 +789,9 @@ footer p a,footer p a:hover,footer p a:focus {
     #intro{
         text-align: center;
     }
-    #intro,.section{
+    /*#intro,.section{
         padding: 100px 0px;
-    }
+    }*/
     .overlay{
         padding-top: 100px;
         padding-bottom: 400px;
@@ -869,13 +869,16 @@ footer p a,footer p a:hover,footer p a:focus {
         width: 80%;
     }
 
+    .phone-image {
+        display: none;
+    }
+    .section {
+        padding: 0 0;
+    }
+
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-    .downloads a{
-        margin: 5px;
-    }
-
     .left-mob-front,.left-mob-back,.right-mob-front,.right-mob-back{
         max-width: 80%;
     }
