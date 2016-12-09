@@ -121,7 +121,7 @@ h1,h2,h3,h4,h5,h6 {
     margin-bottom: 20px;
     line-height: 1.4;
     color: #29282b;
-    letter-spacing: 2px;
+    /*letter-spacing: 2px;*/
 }
 h1{
     font-size: 40px;
@@ -146,7 +146,7 @@ h6{
     width: auto;
 }
 .section{
-    padding:150px 0px;
+    padding: 80px 0px;
     position: relative;
     z-index: 2;
     overflow: hidden;
@@ -164,11 +164,12 @@ h6{
 /* title Section */
 .titleSection{
     clear: both;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
     text-align: center;
 }
 .titleSection h2{
     margin-top: 0px;
+    font-weight: 400;
 }
 .titleSection p{
     max-width: 400px;
@@ -320,7 +321,7 @@ h6{
     background-image: url('../images/coffee_reader_guy.jpg');
     background-size: cover;
     position: relative;
-    padding-bottom: 40px;
+    padding-top: 40px;
 
 }
 
@@ -335,24 +336,32 @@ h6{
 }
 
 #intro .text {
-    padding-top: 240px;
-    vertical-align: bottom;
+    padding-top: 100px;
 }
-
-#intro-background {
-    background-image: url('../images/coffee_reader_guy.jpg')
-    background-repeat: stretch;
-}
-
 
 #intro h1 {
-    color: #263238;
+    color: black;
+    opacity: .90;
     font-weight: 700;
-    font-size: 56px;
+    font-size: 48px;
 }
 
 #intro .subheading {
-    font-size: 24px
+    font-size: 16px;
+}
+
+#intro .coming-soon {
+    padding-top: 8px;
+    line-height: 1.5;
+}
+
+#intro .coming-soon a {
+    color: black;
+    text-decoration: underline;
+}
+
+#intro .coming-soon span {
+    font-weight: 700;
 }
 
 .downloads a{
@@ -436,10 +445,12 @@ h6{
 
 /* features ---------------------------------------------------------------- */
 #features{
-    background:#f1f1f1;
+    background: white;
     border-top: 1px solid #eee;
     text-align: center;
+    padding-top: 80px;
 }
+
 .leftFeatures,.rightFeatures{
     margin-top: 50px;
 }
