@@ -259,7 +259,7 @@ h6{
     -moz-transition: all .4s ease-in-out;
     -o-transition: all .4s ease-in-out;
     transition: all .4s ease-in-out;
-    background:transparent;
+    background-color: rgba(38,50,56,0.90);
     border: none;
     padding:10px 0 !important;
     margin-bottom: 0 !important;
@@ -267,11 +267,12 @@ h6{
     top:0px;
 }
 .NavBg{
-    background:rgba(255,255,255,0.9);
+    background-color: rgba(38,50,56,1);
 }
 .nav-logo{
     padding: 0px 15px;
-    height: 50px;
+    padding-top: 12px;
+    height: 45px;
     overflow: hidden;
 }
 .nav-logo:focus{
@@ -282,7 +283,7 @@ h6{
 }
 .navbar{
     margin-bottom: 0px;
-    background: #263238;
+
     border-radius: 0px;
 }
 .navbar-nav {
@@ -296,8 +297,8 @@ h6{
 .navbar-nav li a {
     padding: 10px;
     line-height: 30px;
-    font-size: 12px;
-    color: #999;
+    font-size: 16px;
+    color: #BBB;
     position: relative;
     background: transparent !important;
     -webkit-transition: all .5s ease;
@@ -309,11 +310,12 @@ h6{
     outline: none;
 }
 .navbar-nav li.active a,.navbar-nav li a:hover {
-    color:#29282b;
+    color: white
 }
 .navbar-toggle{
     padding: 5px 10px;
     margin-right: 10px;
+    color: #BBB;
 }
 /* intro ---------------------------------------------------------------- */
 
@@ -321,7 +323,7 @@ h6{
     background-image: url('../images/coffee_reader_guy.jpg');
     background-size: cover;
     position: relative;
-    padding-top: 40px;
+    padding-top: 80px;
 
 }
 
