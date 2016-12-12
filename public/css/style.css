@@ -120,7 +120,6 @@ h1,h2,h3,h4,h5,h6 {
     font-weight: 100;
     margin-bottom: 20px;
     line-height: 1.4;
-    color: #29282b;
     /*letter-spacing: 2px;*/
 }
 h1{
@@ -464,6 +463,18 @@ h6{
     color: #2ec7db;
     font-size: 50px;
     margin-bottom: 10px;
+}
+
+/* how it works---------------------------------------------------------- */
+#how-it-works {
+    /*background-color: #2ec7db;*/
+    background-color: #49b4c2;
+    color: white;
+}
+
+/* about us ------------------------------------------------------------- */
+#about-us {
+    /*background-color: #2ec7db;*/
 }
 
 /* share ---------------------------------------------------------------- */
