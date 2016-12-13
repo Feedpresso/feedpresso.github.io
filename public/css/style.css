@@ -481,6 +481,43 @@ h6{
     margin-bottom: 20px;
 }
 
+/* newsletter------------------------------------------------------------ */
+#newsletter {
+    background-color: #49b4c2;
+    color: white;
+}
+
+#newsletter .email {
+    border-radius: 4px;
+    border: none;
+    padding: 10px;
+    color: #999;
+    font-weight: 700;
+    font-size: 20px;
+}
+.mc-field-group label {
+    display: none;
+}
+
+.mc-field-group input {
+    width: 100%
+}
+
+#subscribe-button-container .button {
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    border: none;
+    line-height: 52px;
+    background-color: #29282b;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: -50;
+}
+
+
+
 /* share ---------------------------------------------------------------- */
 #share{
     background:url("../images/stars.png") no-repeat top left #F45368;
@@ -810,6 +847,7 @@ footer p a,footer p a:hover,footer p a:focus {
     .downloadtxt{
         margin-top: 20px;
     }
+
 }
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
@@ -923,6 +961,10 @@ footer p a,footer p a:hover,footer p a:focus {
         margin-top: 24px;
     }
 
+    #subscribe-button-container .button {
+        margin: 10px 0;
+        width: 100%;
+    }
 
 }
 /* Extra Small Devices, Phones */
