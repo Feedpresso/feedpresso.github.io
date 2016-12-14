@@ -167,7 +167,6 @@ h6{
     text-align: center;
 }
 .titleSection h2{
-    margin-top: 0px;
     font-weight: 400;
 }
 .titleSection p{
@@ -352,7 +351,7 @@ h6{
 }
 
 #intro .subheading {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 #intro .coming-soon {
@@ -871,7 +870,6 @@ footer p a,footer p a:hover,footer p a:focus {
         height: 400px;
         overflow: hidden;
         margin: 0 auto;
-        margin-bottom: 50px;
     }
     .left-mob-front{
         right: 0px;
@@ -933,8 +931,8 @@ footer p a,footer p a:hover,footer p a:focus {
         width: 80%;
     }
 
-    .section {
-        padding: 0 0;
+    #how-it-works.section {
+        padding-bottom: 0;
     }
 
     #intro {
@@ -949,7 +947,7 @@ footer p a,footer p a:hover,footer p a:focus {
 
 
     #intro .subheading {
-        /*font-size: 14px;*/
+        font-size: 18px;
         margin-left: 20px;
     }
 
