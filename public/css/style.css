@@ -331,7 +331,10 @@ h6{
 /* intro ---------------------------------------------------------------- */
 
 #intro {
-    background-image: url('../images/coffee_reader_guy.jpg');
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.6), 
+        rgba(0, 0, 0, 0.6)
+      ), url('../images/people-woman-coffee-meeting-smaller.jpg') ;
     background-size: cover;
     position: relative;
     padding-top: 100px;
