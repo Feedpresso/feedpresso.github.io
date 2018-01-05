@@ -48,6 +48,17 @@
     margin: -25px 0 0 -50px;
 }
 
+img.circle {
+  border-radius: 50%;  
+}
+
+/* section.section:nth-child(even) {
+    background-color: #49b4c2;
+    color: white;
+}
+
+section.section:nth-child(odd) {} */
+
 /* top line LOADER */
 .pace {
     -webkit-pointer-events: none;
@@ -467,6 +478,26 @@ h6{
 
 /* how it works---------------------------------------------------------- */
 #how-it-works {
+    /*background-color: #2ec7db;*/
+    background-color: #49b4c2;
+    color: white;
+}
+
+.publications {
+    text-align: center;
+}
+
+.publications .subsection h3 {
+    font-size: 20px;
+}
+
+.publications img {
+    height: 160px;
+    text-align: center;
+}
+
+/* how it works---------------------------------------------------------- */
+#testimonials {
     /*background-color: #2ec7db;*/
     background-color: #49b4c2;
     color: white;
