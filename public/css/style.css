@@ -486,6 +486,29 @@ h6{
     color: white;
 }
 
+.thought-leaders {
+    text-align: center;
+}
+
+.thought-leaders img {
+    height: 120px;
+    text-align: center;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.thought-leaders .author-name {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.3em;
+    margin: 5px;
+}
+
+.thought-leaders .description {
+    text-align: center;
+    font-size: 0.7em;
+}
+
 .publications {
     text-align: center;
 }
