@@ -1,0 +1,8 @@
+image: andreysenov/firebase-tools
+pipelines:
+   branches:
+      master:
+      - step:
+         deployment: production
+         script:
+         - firebase deploy --token=$FIREBASE_TOKEN --project feedpresso --non-interactive
